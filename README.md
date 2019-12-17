@@ -20,7 +20,7 @@
 
 **Поведенческие паттерны проектирования (Behavioral)**
 * ~~Цепочка обязанностей (Chain of Responsibility)~~  
-* ~~Команда (Command)~~  
+* Команда (Command)  
 * ~~Итератор (Iterator)~~  
 * ~~Посредник (Mediator)~~  
 * ~~Снимок (Memento)~~  
@@ -30,3 +30,6 @@
 * ~~Шаблонный метод (Template Method)~~  
 * ~~Посетитель (Visitor)~~  
 
+**ORM**  
+* Преобразователь данных (Data Mapper)  
+* Коллекция объектов (Identity Map)
