@@ -2,19 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="72f2f731-8f4b-4fe8-8e0c-0a1eb2a8427b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/factory_methodethod_and_abstract_factory/AbstractFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/factory_methodethod_and_abstract_factory/FactoryProducer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/factory_methodethod_and_abstract_factory/Human.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/factory_methodethod_and_abstract_factory/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/factory_methodethod_and_abstract_factory/female/FemaleFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/factory_methodethod_and_abstract_factory/female/KidGirl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/factory_methodethod_and_abstract_factory/female/TeenGirl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/factory_methodethod_and_abstract_factory/female/Woman.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/factory_methodethod_and_abstract_factory/male/KidBoy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/factory_methodethod_and_abstract_factory/male/MaleFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/factory_methodethod_and_abstract_factory/male/Man.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/factory_methodethod_and_abstract_factory/male/TeenBoy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/factory_methodethod_and_abstract_factory/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/gof/structural/adapter/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/gof/structural/adapter/SomeAdaptor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/gof/structural/adapter/SomeInterface1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/gof/structural/adapter/SomeInterface2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/gof/structural/adapter/SomeObject1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/gof/structural/adapter/SomeObject2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -31,97 +24,97 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/factory_methodethod_and_abstract_factory/AbstractFactory.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/abstract_factory_my_example/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+            <state relative-caret-position="289">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/factory_methodethod_and_abstract_factory/male/TeenBoy.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/singleton/SingletonExample.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="34" lean-forward="true" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/factory_methodethod_and_abstract_factory/female/FemaleFactory.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" selection-start-line="7" selection-end-line="7" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/factory_methodethod_and_abstract_factory/male/KidBoy.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="33" lean-forward="true" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/factory_methodethod_and_abstract_factory/male/MaleFactory.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" selection-start-line="6" selection-end-line="6" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/factory_methodethod_and_abstract_factory/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
+            <state relative-caret-position="34">
               <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/factory_methodethod_and_abstract_factory/male/Man.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/gof/structural/adapter/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="32" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
+            <state relative-caret-position="102">
+              <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/factory_methodethod_and_abstract_factory/female/TeenGirl.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/gof/structural/adapter/SomeInterface1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="35" selection-start-line="4" selection-start-column="35" selection-end-line="4" selection-end-column="35" />
+            <state relative-caret-position="51">
+              <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="24" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/factory_methodethod_and_abstract_factory/female/Woman.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/gof/structural/adapter/SomeInterface2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="31" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
+            <state relative-caret-position="51">
+              <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/factory_methodethod_and_abstract_factory/female/KidGirl.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/gof/structural/adapter/SomeObject1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="35" selection-start-line="4" selection-start-column="35" selection-end-line="4" selection-end-column="35" />
+            <state relative-caret-position="68">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/gof/structural/adapter/SomeObject2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/gof/structural/adapter/SomeAdaptor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+              <folding>
+                <element signature="e#177#178#0" expanded="true" />
+                <element signature="e#229#230#0" expanded="true" />
+                <element signature="e#263#264#0" expanded="true" />
+                <element signature="e#292#293#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/abstract_factory_my_example/whatsapp/WhatsAppAudioMessage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="52" selection-start-line="4" selection-start-column="52" selection-end-line="4" selection-end-column="52" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/abstract_factory_my_example/whatsapp/WhatsAppTextMessage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -131,10 +124,26 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Enum" />
         <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Viber</find>
+      <find>WhatsApp</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+      <replace>WhatsApp</replace>
+      <replace>Viber</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>D:\repoandroid\DesignPatterns\src\main\java\abstract_factory_my_example\whatsapp\viber</dir>
+      <dir>D:\repoandroid\DesignPatterns\src\main\java\abstract_factory_my_example\whatsapp</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -157,6 +166,32 @@
         <option value="$PROJECT_DIR$/src/main/java/factory_methodethod_and_abstract_factory/male/Man.java" />
         <option value="$PROJECT_DIR$/src/main/java/factory_methodethod_and_abstract_factory/male/TeenBoy.java" />
         <option value="$PROJECT_DIR$/src/main/java/factory_methodethod_and_abstract_factory/male/MaleFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/abstract_factory_my_example/TextMessage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/abstract_factory_my_example/AudioMessage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/abstract_factory_my_example/MessageAbstractFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/abstract_factory_my_example/whatsapp/viber/ViberAudioMessage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/abstract_factory_my_example/whatsapp/ViberAudioMessage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/abstract_factory_my_example/Messanger.java" />
+        <option value="$PROJECT_DIR$/src/main/java/abstract_factory_my_example/MessangerType.java" />
+        <option value="$PROJECT_DIR$/src/main/java/abstract_factory_my_example/MessageContentType.java" />
+        <option value="$PROJECT_DIR$/src/main/java/abstract_factory_my_example/FactoryProducer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/abstract_factory_my_example/Message.java" />
+        <option value="$PROJECT_DIR$/src/main/java/abstract_factory_my_example/viber/ViberAudioMessage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/abstract_factory_my_example/viber/ViberTextMessage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/abstract_factory_my_example/viber/ViberVideoMessage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/abstract_factory_my_example/whatsapp/WhatsAppAudioMessage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/abstract_factory_my_example/whatsapp/WhatsAppTextMessage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/abstract_factory_my_example/whatsapp/WhatsAppVideoMessage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/abstract_factory_my_example/AbstractMessageFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/abstract_factory_my_example/whatsapp/WhatsAppMessageFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/abstract_factory_my_example/viber/ViberMessageFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/abstract_factory_my_example/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/gof/structural/adapter/SomeInterface1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/gof/structural/adapter/SomeObject1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/gof/structural/adapter/SomeInterface2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/gof/structural/adapter/SomeObject2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/gof/structural/adapter/SomeAdaptor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/gof/structural/adapter/Main.java" />
       </list>
     </option>
   </component>
@@ -168,10 +203,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="683" />
-    <option name="y" value="25" />
-    <option name="width" value="683" />
-    <option name="height" value="743" />
+    <option name="width" value="1412" />
+    <option name="height" value="1092" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -181,8 +214,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -214,7 +247,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="factory_methodethod_and_abstract_factory" type="462c0819:PsiDirectoryNode" />
+              <item name="abstract_factory_my_example" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="GlimAntony" type="b2602c69:ProjectViewProjectNode" />
@@ -222,8 +255,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="factory_methodethod_and_abstract_factory" type="462c0819:PsiDirectoryNode" />
-              <item name="female" type="462c0819:PsiDirectoryNode" />
+              <item name="gof" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="GlimAntony" type="b2602c69:ProjectViewProjectNode" />
@@ -231,8 +263,16 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="factory_methodethod_and_abstract_factory" type="462c0819:PsiDirectoryNode" />
-              <item name="male" type="462c0819:PsiDirectoryNode" />
+              <item name="gof" type="462c0819:PsiDirectoryNode" />
+              <item name="adapter" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GlimAntony" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DesignPatterns" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="singleton" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -244,14 +284,21 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550303389931" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/factory_methodethod_and_abstract_factory" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1576145857662" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\repoandroid\DesignPatterns\src\main\java\abstract_factory_my_example\whatsapp" />
       <recent name="$PROJECT_DIR$/src/main/java/factory_methodethod_and_abstract_factory" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="abstract_factory_my_example" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="abstract_factory_my_example.viber" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -266,7 +313,33 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gof.structural.adapter.Main" />
+      <module name="GlimAntony" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="gof.structural.adapter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="abstract_factory_my_example.Main" />
+      <module name="GlimAntony" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="abstract_factory_my_example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="factory_methodethod_and_abstract_factory.Solution" />
       <module name="GlimAntony" />
@@ -282,6 +355,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Solution" />
       </list>
     </recent_temporary>
@@ -299,17 +374,21 @@
       <workItem from="1550302870046" duration="609000" />
       <workItem from="1558851992780" duration="676000" />
       <workItem from="1563001477589" duration="444000" />
+      <workItem from="1575884593589" duration="1962000" />
+      <workItem from="1575968772532" duration="1696000" />
+      <workItem from="1575990696255" duration="1227000" />
+      <workItem from="1576142778967" duration="1534000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1729000" />
+    <option name="totallyTimeSpent" value="8148000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="25" width="1366" height="743" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28700906" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29957357" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -317,8 +396,8 @@
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32963374" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32963374" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -328,6 +407,7 @@
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32963374" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -347,13 +427,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/singleton/SingletonExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="28" />
         </state>
       </provider>
     </entry>
@@ -385,50 +458,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/factory_methodethod_and_abstract_factory/Human.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/factory_methodethod_and_abstract_factory/Условие.jrtc">
       <provider selected="true" editor-type-id="HomeWorkEditorType_Id" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/factory_methodethod_and_abstract_factory/FactoryProducer.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/factory_methodethod_and_abstract_factory/male/TeenBoy.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="66" selection-start-line="14" selection-start-column="66" selection-end-line="14" selection-end-column="66" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/factory_methodethod_and_abstract_factory/female/KidGirl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="35" selection-start-line="4" selection-start-column="35" selection-end-line="4" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/factory_methodethod_and_abstract_factory/female/TeenGirl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="35" selection-start-line="4" selection-start-column="35" selection-end-line="4" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/factory_methodethod_and_abstract_factory/female/Woman.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="31" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
+        <state relative-caret-position="68">
+          <caret line="4" column="34" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/factory_methodethod_and_abstract_factory/female/FemaleFactory.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
+        <state relative-caret-position="102">
           <caret line="7" selection-start-line="7" selection-end-line="7" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -438,35 +480,50 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/factory_methodethod_and_abstract_factory/male/KidBoy.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="33" lean-forward="true" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
+        <state relative-caret-position="68">
+          <caret line="4" column="33" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/factory_methodethod_and_abstract_factory/male/Man.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
+        <state relative-caret-position="68">
           <caret line="4" column="32" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/factory_methodethod_and_abstract_factory/AbstractFactory.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/factory_methodethod_and_abstract_factory/female/TeenGirl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
+        <state relative-caret-position="68">
+          <caret line="4" column="35" selection-start-line="4" selection-start-column="35" selection-end-line="4" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/factory_methodethod_and_abstract_factory/female/Woman.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="31" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/factory_methodethod_and_abstract_factory/female/KidGirl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="35" selection-start-line="4" selection-start-column="35" selection-end-line="4" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/factory_methodethod_and_abstract_factory/Human.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
           <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/factory_methodethod_and_abstract_factory/male/TeenBoy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="34" lean-forward="true" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/abstract_factory_my_example/AudioMessage.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/factory_methodethod_and_abstract_factory/male/MaleFactory.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
+        <state relative-caret-position="85">
           <caret line="6" selection-start-line="6" selection-end-line="6" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -474,10 +531,188 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/factory_methodethod_and_abstract_factory/FactoryProducer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="66" selection-start-line="14" selection-start-column="66" selection-end-line="14" selection-end-column="66" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/abstract_factory_my_example/MessangerType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="25" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/abstract_factory_my_example/MessageContentType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="30" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/factory_methodethod_and_abstract_factory/AbstractFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/factory_methodethod_and_abstract_factory/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
+        <state relative-caret-position="187">
+          <caret line="11" selection-start-line="11" selection-end-line="15" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/abstract_factory_my_example/VideoMessage.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/abstract_factory_my_example/Message.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/abstract_factory_my_example/whatsapp/WhatsAppVideoMessage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="52" selection-start-line="4" selection-start-column="52" selection-end-line="4" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/abstract_factory_my_example/whatsapp/WhatsAppMessageFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="8" selection-start-line="8" selection-end-line="15" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/gof/creational_patterns.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/abstract_factory_my_example/viber/ViberMessageFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/abstract_factory_my_example/viber/ViberTextMessage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/abstract_factory_my_example/viber/ViberVideoMessage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/abstract_factory_my_example/viber/ViberAudioMessage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="49" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/abstract_factory_my_example/FactoryProducer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/abstract_factory_my_example/AbstractMessageFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/abstract_factory_my_example/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/abstract_factory_my_example/whatsapp/WhatsAppAudioMessage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="52" selection-start-line="4" selection-start-column="52" selection-end-line="4" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/abstract_factory_my_example/whatsapp/WhatsAppTextMessage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/singleton/SingletonExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/gof/structural/adapter/SomeInterface1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/gof/structural/adapter/SomeObject1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/gof/structural/adapter/SomeInterface2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/gof/structural/adapter/SomeObject2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/gof/structural/adapter/SomeAdaptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="e#177#178#0" expanded="true" />
+            <element signature="e#229#230#0" expanded="true" />
+            <element signature="e#263#264#0" expanded="true" />
+            <element signature="e#292#293#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/gof/structural/adapter/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
         </state>
       </provider>
     </entry>
